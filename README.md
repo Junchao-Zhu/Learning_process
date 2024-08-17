@@ -1,1 +1,8 @@
-A lab course for bioinformatics, the projects includes code for Sequence alignment.
+该项目为笔者在本科期间机器学习课程中的几个主要作业，包括了从简单到复杂的主要模型与优化算法，涵盖了机器学习的数学推导与代码实现。全项目主要为`python`构成。
+
+- 基于K-Means与GMM模型实现小麦种子的聚类任务
+- 基于决策树算法分类葡萄酒种类（含剪枝）
+- 基于线性回归与逻辑回归分类葡萄酒类型与预测葡萄酒品质
+- 基于软间隔SVM算法分类葡萄酒种类（含SMO优化）
+
+Note：如果对你的机器学习课程（作业）有帮助，可以**star**一下hhh
